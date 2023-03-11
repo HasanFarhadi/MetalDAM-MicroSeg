@@ -5,5 +5,4 @@ an ongoing work on semantic segmentation of Microstructure images from MetalDAM 
 Raw Dataset: https://dasci.es/transferencia/open-data/metal-dam/    
 
 
-best model Checkpoint so far: https://drive.google.com/drive/folders/1LkaEHVMXjCQTud8wiraNkCrM7viPtruL?usp=sharing
- 
+the altered dataset and the best model Checkpoint so far: https://drive.google.com/drive/folders/1ZOAIyTEc4OQCIr_N5-EQ_PkGzS4CaeV0
