@@ -1,6 +1,6 @@
 # MetalDAM-MicroSeg
-an ongoing work on semantic segmentation of Microstructure images from MetalDAM dataset.
-
+An efficient model for semantic segmentation of micro-structure images to detect various surface defects.
+This model is implemented using TensorFlow and Keras. The network architecture is inspired by the dcgan model and uses UNET as a generator.
 
 Raw Dataset: https://dasci.es/transferencia/open-data/metal-dam/    
 
